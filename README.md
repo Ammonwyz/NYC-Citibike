@@ -59,6 +59,6 @@ Male with subsription ride more than other type of user and gender.
 
 2. Checkout Time by Gender by Weekday
 
-![Checkout Time by Gender by Weekday](https://user-images.githubusercontent.com/95401877/161371190-f172e869-5c3c-4cd6-9b53-1c273f9af3c5.png)
+![Checkout Time by Gender by Weekday](https://user-images.githubusercontent.com/95401877/161371597-440963f6-f282-4c16-801d-96061212e105.png)
 
 Female most like ride on Thursday, and born in 1970. 
