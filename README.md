@@ -17,6 +17,13 @@ Software:  Panda, Tableau
 
 From the different visualizations we can get results as show below:
 
+
+![Checkout Time for Gender](https://user-images.githubusercontent.com/95401877/161370177-2f7a5d73-69ea-4ee1-b9b4-873c43feb0a9.png)
+
+
+![Checkout Time for Users](https://user-images.githubusercontent.com/95401877/161370178-671355a0-6ef7-45ac-bbe7-3dcf740bfa77.png)
+
+
 ![Trips by Gender (Weekday per Hour)](https://user-images.githubusercontent.com/95401877/161369191-e80d1aa5-d554-4b51-b96e-a90cc2236539.png)
 
 
@@ -25,11 +32,6 @@ From the different visualizations we can get results as show below:
 
 ![Trips by Weekday for Each Hour](https://user-images.githubusercontent.com/95401877/161369193-2224fc10-43f1-4bdc-9238-2a205252c712.png)
 
-
-![Checkout Time for Gender](https://user-images.githubusercontent.com/95401877/161370177-2f7a5d73-69ea-4ee1-b9b4-873c43feb0a9.png)
-
-
-![Checkout Time for Users](https://user-images.githubusercontent.com/95401877/161370178-671355a0-6ef7-45ac-bbe7-3dcf740bfa77.png)
 
 ## Summary: 
 
@@ -48,10 +50,15 @@ From analysis results, We suggest business
 There have more results can get from tableau. 
 
 Recommended Additional Visualizations:
+
 1. Trip by Gender by Usertype
+
 ![Trip by Gender by Usertype](https://user-images.githubusercontent.com/95401877/161369160-e33c2e90-2eae-4e13-a0b1-bc339e7a5018.png)
 
+Male with subsription ride more than other type of user and gender.
+
 2. Checkout Time by Gender by Weekday
-![Checkout Time by Gender by Weekday](https://user-images.githubusercontent.com/95401877/161369168-1af87992-7615-42e3-bc51-0888d831af9b.png)
+
+![Checkout Time by Gender by Weekday](https://user-images.githubusercontent.com/95401877/161371190-f172e869-5c3c-4cd6-9b53-1c273f9af3c5.png)
 
 Female most like ride on Thursday, and born in 1970. 
